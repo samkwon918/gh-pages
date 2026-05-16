@@ -19,21 +19,32 @@ The master strategy document for building Carity into a dominant, category-defin
 
 Carity is not trying to be a good small business. It's trying to build a moat, spin a flywheel, and compound its way to market leadership. Every decision should be evaluated against that ambition — not against what's comfortable, familiar, or safe.
 
+**The product:** 50-pad multipack (28 regular, 12 large, 10 overnight) — 100% Texas organic cotton, USDA approved, paper-thin — $24.99.
+
+**The mission:** Organic period care for every woman, not just women who can afford Rael.
+
+**The market:** 42% of US women have experienced period poverty. 27 million potential core customers. Every major organic competitor targets the top 10% of the market. Carity targets everyone else.
+
 The 7 laws of great companies (see [[synthesis/what-makes-great-companies]]) map onto Carity like this:
 
 ---
 
-## Law 1 Applied: Know the Customer Deeper Than They Know Themselves
+## Law 1 Applied: Know the Customer Deeply
 
-**The standard:** Amazon leaves a chair for the customer in every meeting. Apple begins product design with the user's emotional experience.
+**Who she is:** A woman managing a tight budget who has been using synthetic pads by necessity, not choice. She knows organic is better for her body. She assumed it was out of reach. Then she finds Carity.
 
-**For Carity:**
-- Who is the exact buyer? Not a demographic — a *person*. What is their life like on the day they first hear about Carity? What problem are they experiencing? What have they already tried?
-- What do they feel when the product arrives? When they use it? When it runs out?
-- What do they tell their friends? (This is the most important question — it defines the natural marketing.)
-- What do they *not* know they need that Carity could give them?
+Or: a mother buying her middle schooler's first period products, looking for something trustworthy, affordable, and gentle.
 
-**Action:** The sales call analyses (when ingested) will begin answering this. Every call reveals the customer. Every objection is a clue about what they value and fear.
+**What she feels when she opens the box:**
+- Relief: enough pads to last the month, all three sizes, no separate purchases needed
+- Surprise: this is paper-thin? This is organic? For this price?
+- Trust: USDA certified. Texas cotton. This is real.
+
+**What she tells her friend:** "I found organic pads for the price of Always. 50 pads, comes with overnights too. You have to try it."
+
+That sentence — *that exact sentence* — is the marketing strategy. Make that sentence true and the flywheel starts.
+
+**What she doesn't know she needs yet:** A subscription so she never runs out. A community of women who feel the same way she does about period care access. A brand that makes her feel like she deserves quality — not charity.
 
 ---
 

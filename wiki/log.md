@@ -6,6 +6,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-05-16] ingest | Carity Product Details + Competitive Market Research
+
+Received full product details: 50-pad multipack (28 regular, 12 large, 10 overnight), 100% Texas organic cotton, $24.99, paper-thin. Researched the organic pad market: Rael, Honest, Cora, Organyc pricing and positioning. Discovered period poverty data (42% of US women affected, 27M potential customers, problem worsening). Updated Carity entity page with real specifics, built competitive analysis, and added period poverty concept page. The strategic picture is now clear: Carity is the only organic pad brand built for the underserved majority.
+
+Pages created: [[concepts/period-poverty]], [[synthesis/carity-competitive-analysis]]
+Pages updated: [[entities/carity]], [[synthesis/carity-growth-strategy]], [[wiki/index]]
+
+---
+
 ## [2026-05-16] ingest | Apple, Amazon, Nvidia, BlackRock — Business Excellence Research
 
 Researched what made four of history's greatest companies succeed: Apple (design obsession, full-stack control, ecosystem moat), Amazon (customer obsession, flywheel, Day 1 mentality), Nvidia (CUDA ecosystem moat, self-disruption, betting on AI before AI existed), BlackRock (risk management, Aladdin technology moat, daily learning). Synthesized into 7 universal laws of great companies and mapped them directly onto a Carity growth strategy. This is the first major strategic content session — the wiki now has a complete business framework tuned to the moonshot mindset.

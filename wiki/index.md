@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Updated on every ingest.
 
-**Stats:** 1 source | 5 concepts | 6 entities | 2 synthesis | 1 overview
+**Stats:** 1 source | 6 concepts | 6 entities | 3 synthesis | 1 overview
 
 ---
 
@@ -19,10 +19,11 @@ Master catalog of all wiki pages. Updated on every ingest.
 *(alphabetical)*
 
 - [[concepts/competitive-moat]] — Buffett's framework for durable competitive advantage; five moat types with Carity applications
-- [[concepts/flywheel-effect]] — Jim Collins / Bezos model of self-reinforcing compounding growth; Carity flywheel design
-- [[concepts/llm-wiki-pattern]] — The core pattern: LLM incrementally builds/maintains a persistent wiki instead of doing RAG on every query
+- [[concepts/flywheel-effect]] — Jim Collins / Bezos compounding growth model; Carity flywheel design
+- [[concepts/llm-wiki-pattern]] — The core pattern: LLM incrementally builds/maintains a persistent wiki
 - [[concepts/moonshot-mindset]] — The operating philosophy: sky is not the limit, there are footprints on the moon
-- [[concepts/rag-vs-wiki]] — Comparison of RAG vs. LLM Wiki approaches; when to use which
+- [[concepts/period-poverty]] — The crisis Carity solves: 42% of US women, 11.9M affected, worsening
+- [[concepts/rag-vs-wiki]] — Comparison of RAG vs. LLM Wiki approaches
 
 ---
 
@@ -30,14 +31,14 @@ Master catalog of all wiki pages. Updated on every ingest.
 
 *(alphabetical)*
 
-- [[entities/amazon]] — Bezos's customer obsession, flywheel, Day 1 mentality, and long-term thinking; DTC lessons
-- [[entities/apple]] — Jobs's design obsession, simplicity, full-stack control, ecosystem moat; brand lessons for Carity
-- [[entities/azzaro-wear]] — Summer streetwear brand targeting teen boys; second business in the portfolio
-- [[entities/blackrock]] — Fink's risk management, Aladdin technology moat, daily learning discipline; data lessons
-- [[entities/carity]] — PRIMARY BUSINESS — e-commerce physical product at carity.life; hub for all growth strategy
-- [[entities/nvidia]] — Huang's CUDA ecosystem moat, self-disruption, full-stack thinking, AI vision
-- [[entities/obsidian]] — Local markdown app recommended as the IDE for browsing this wiki
-- [[entities/vannevar-bush-memex]] — 1945 vision of a personal associative knowledge store; historical antecedent
+- [[entities/amazon]] — Customer obsession, flywheel, Day 1 mentality; DTC lessons for Carity
+- [[entities/apple]] — Design obsession, full-stack control, ecosystem moat; brand lessons for Carity
+- [[entities/azzaro-wear]] — Summer streetwear brand targeting teen boys; second business
+- [[entities/blackrock]] — Risk management, Aladdin technology moat, daily learning discipline
+- [[entities/carity]] — **PRIMARY BUSINESS** — 50-pad organic multipack, $24.99, carity.life
+- [[entities/nvidia]] — CUDA ecosystem moat, self-disruption, betting on AI before AI existed
+- [[entities/obsidian]] — Local markdown app for browsing this wiki
+- [[entities/vannevar-bush-memex]] — 1945 vision of personal associative knowledge store
 
 ---
 
@@ -45,11 +46,12 @@ Master catalog of all wiki pages. Updated on every ingest.
 
 *(newest first)*
 
-- [[synthesis/carity-growth-strategy]] — Master strategy document: the 7 laws of great companies applied directly to Carity
-- [[synthesis/what-makes-great-companies]] — Distillation of Apple, Amazon, Nvidia, BlackRock — the 7 laws of permanent greatness
+- [[synthesis/carity-competitive-analysis]] — Full competitor breakdown: Rael, Honest, Cora, L., Always — and why Carity wins
+- [[synthesis/carity-growth-strategy]] — Master strategy: 7 laws of greatness applied to Carity with real product specifics
+- [[synthesis/what-makes-great-companies]] — Apple, Amazon, Nvidia, BlackRock: 7 universal laws of permanent greatness
 
 ---
 
 ## Overview
 
-- [[overview]] — Top-level synthesis; current state of the wiki and evolving thesis
+- [[overview]] — Top-level synthesis; current wiki state and evolving thesis
