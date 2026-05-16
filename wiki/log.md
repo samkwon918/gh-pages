@@ -6,6 +6,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-05-16] ingest | Apple, Amazon, Nvidia, BlackRock — Business Excellence Research
+
+Researched what made four of history's greatest companies succeed: Apple (design obsession, full-stack control, ecosystem moat), Amazon (customer obsession, flywheel, Day 1 mentality), Nvidia (CUDA ecosystem moat, self-disruption, betting on AI before AI existed), BlackRock (risk management, Aladdin technology moat, daily learning). Synthesized into 7 universal laws of great companies and mapped them directly onto a Carity growth strategy. This is the first major strategic content session — the wiki now has a complete business framework tuned to the moonshot mindset.
+
+Pages created: [[entities/apple]], [[entities/amazon]], [[entities/nvidia]], [[entities/blackrock]], [[entities/carity]], [[entities/azzaro-wear]], [[concepts/competitive-moat]], [[concepts/flywheel-effect]], [[concepts/moonshot-mindset]], [[synthesis/what-makes-great-companies]], [[synthesis/carity-growth-strategy]]
+Pages updated: [[wiki/index]], [[wiki/overview]]
+
+---
+
 ## [2026-05-16] ingest | LLM Wiki — Idea File (Founding Document)
 
 Ingested the founding idea document that defines this wiki system. Established the full schema in CLAUDE.md, built the directory structure, created the index, overview, and all seed pages. This is the zero-state ingest — the wiki now exists and has its first concept pages.

@@ -1,7 +1,7 @@
 ---
 title: "Overview"
 type: overview
-tags: [overview, synthesis]
+tags: [overview, synthesis, carity, strategy]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1
@@ -13,38 +13,51 @@ Top-level synthesis of everything in this wiki. Updated on every ingest that shi
 
 ## What This Wiki Is
 
-This is a personal knowledge base maintained by Claude (LLM), following the [[concepts/llm-wiki-pattern]]. You (the human) drop sources into `raw/`, ask questions, and direct the exploration. Claude writes and maintains all wiki pages, keeps cross-references current, flags contradictions, and files substantive query answers as new pages.
+This is a **business second brain** for the founder of Carity and Azzaro Wear — maintained by Claude, calibrated to make the founder a sharper salesperson and better businessman. Every source ingested, every sales call analyzed, every question asked compounds into a growing strategic intelligence base.
 
-The wiki is a **compounding artifact** — it gets richer with every source added and every question asked.
+Operating philosophy: *"How is the sky the limit when there are footprints on the moon."*
 
 ## Current State (2026-05-16)
 
-**Sources ingested:** 1
-**Pages:** 7 (1 source summary, 2 concepts, 2 entities, 1 overview, 1 index)
+**Sources ingested:** 1 (founding document)
+**Wiki pages:** 14 across concepts, entities, and synthesis
+**Businesses tracked:** Carity (primary), Azzaro Wear (secondary)
 
-The wiki is at day zero. The founding document — the LLM Wiki idea file — has been ingested, establishing the schema and seeding the initial concept and entity pages. The system is ready for real sources.
+The wiki has moved from zero to a full strategic framework in one session. The foundation is built. Now it deepens with every source.
 
-## Core Thesis (so far)
+## The Central Thesis (evolving)
 
-The key insight from the founding document: **the bottleneck for personal knowledge bases is maintenance, not reading or thinking.** Humans abandon wikis because the upkeep burden grows faster than the value. LLMs solve this — they do the cross-referencing, consistency-checking, and bookkeeping that no human wants to do, indefinitely and for free.
+After synthesizing Apple, Amazon, Nvidia, and BlackRock, seven laws emerge that define permanently great companies:
 
-This makes a new kind of personal knowledge management possible: one that actually stays organized as it grows.
+1. **Customer obsession** — start with the customer, work backwards
+2. **The flywheel** — build self-reinforcing compounding systems, not just products
+3. **Full-stack control** — own every layer of the experience
+4. **Long-term thinking** — make the uncomfortable 10-year bet
+5. **Build the moat early** — moats take years; start when you don't need them
+6. **Self-disruption** — make yourself obsolete before a competitor does
+7. **Never stop learning** — the world changes faster than any static knowledge base
 
-## Key Concepts
+These laws are now mapped directly onto Carity in [[synthesis/carity-growth-strategy]]. That document is the living strategy playbook and will be updated with every new insight.
 
-- [[concepts/llm-wiki-pattern]] — the core pattern this wiki implements
-- [[concepts/rag-vs-wiki]] — why this approach beats retrieval-only systems
+## The Businesses
 
-## Key Entities
+**[[entities/carity]]** — primary e-commerce business at carity.life. The highest priority of this wiki. Every session should be driving Carity toward moonshot growth.
 
-- [[entities/obsidian]] — the recommended browser/IDE for this wiki
-- [[entities/vannevar-bush-memex]] — the 1945 vision this pattern realizes
+**[[entities/azzaro-wear]]** — summer streetwear brand targeting teen boys. Positioned for the social identity dynamics of teen fashion. Secondary priority.
 
-## Open Questions
+## What's Coming Next
 
-- What domain(s) will this wiki focus on? (Not yet defined — depends on what gets ingested.)
-- Will search tooling (e.g. qmd) be needed as the wiki grows?
-- Should synthesis pages use Marp for slide output?
+- **Sales call analysis** — when the 6 sales calls are uploaded, this wiki will extract: what closes deals, what objections appear, what the customer profile looks like, and what the sharpest version of the Carity pitch sounds like
+- **Website audit** — a detailed analysis of carity.life and azzarowear.manus.space with specific improvement recommendations
+- **Market research** — competitive landscape, DTC best practices, what the best brands in adjacent spaces are doing
+
+## Key Pages
+
+- [[synthesis/what-makes-great-companies]] — the strategic framework
+- [[synthesis/carity-growth-strategy]] — the master playbook
+- [[concepts/moonshot-mindset]] — the operating philosophy
+- [[concepts/flywheel-effect]] — the growth model
+- [[concepts/competitive-moat]] — the defense model
 
 ## Related
 
