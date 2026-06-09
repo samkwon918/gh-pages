@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Updated on every ingest.
 
-**Stats:** 1 source | 6 concepts | 6 entities | 3 synthesis | 1 overview
+**Stats:** 1 source | 6 concepts | 8 entities | 4 synthesis | 1 overview
 
 ---
 
@@ -46,6 +46,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 
 *(newest first)*
 
+- [[synthesis/carity-week-one-sales-sprint]] — June 9–16 sprint: 5 cold sales via institutional outbound; first activation of Moat 3
 - [[synthesis/carity-competitive-analysis]] — Full competitor breakdown: Rael, Honest, Cora, L., Always — and why Carity wins
 - [[synthesis/carity-growth-strategy]] — Master strategy: 7 laws of greatness applied to Carity with real product specifics
 - [[synthesis/what-makes-great-companies]] — Apple, Amazon, Nvidia, BlackRock: 7 universal laws of permanent greatness

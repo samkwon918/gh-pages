@@ -6,6 +6,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-09] query | Week-One Plan: 5 Cold Sales for Carity (via West)
+
+Built a 7-day plan (June 9–16) to land 5 cold sales using the West marketing agent. Strategic call: institutional cold outbound (shelters, food banks, period-supply nonprofits, summer programs) is the only cold channel fast enough — 150 contacts → ~10% reply → 5 pilot-box sales. Researched carity.life live: confirmed "Care For All" tagline, $24.99, 1/3/6-month subscriptions + Diamond Plan, and discovered the site 403-blocks non-browser agents (AI-search visibility risk, flagged). Full operational playbook with copy, scripts, and day-by-day schedule filed at `.agents/west/plans/2026-06-09-week-one-5-sales.md`.
+
+Pages created: [[synthesis/carity-week-one-sales-sprint]]
+Pages updated: [[index]]
+
+---
+
 ## [2026-05-16] ingest | Carity Product Details + Competitive Market Research
 
 Received full product details: 50-pad multipack (28 regular, 12 large, 10 overnight), 100% Texas organic cotton, $24.99, paper-thin. Researched the organic pad market: Rael, Honest, Cora, Organyc pricing and positioning. Discovered period poverty data (42% of US women affected, 27M potential customers, problem worsening). Updated Carity entity page with real specifics, built competitive analysis, and added period poverty concept page. The strategic picture is now clear: Carity is the only organic pad brand built for the underserved majority.
