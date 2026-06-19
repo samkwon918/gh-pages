@@ -6,6 +6,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-19] query | Prime Days Campaign: "The Organic Switch" (via West)
+
+Designed a full Prime Day campaign for Carity using 6 of West's 7 roles. The strategic insight: Prime Day isn't a discount event for Carity — it's a trial event. At $0.40/pad Carity is already the cheapest organic option; the Prime badge buys visibility, and Subscribe & Save converts a $19.99 trial into $240/year LTV. Three-phase plan (Pre-Heat → Prime Day → Afterburn) covering Amazon listing optimization, Sponsored Products/Brands/Display ad strategy, 3-post social sequence, email sequence, micro-influencer seeding, and post-purchase S&S conversion. Full playbook at `.agents/west/plans/2026-06-19-prime-days-campaign.md`.
+
+Pages created: none (operational plan, filed in West workspace)
+Pages updated: [[log]]
+
+---
+
 ## [2026-06-19] schema | Price update: $24.99 → $19.99 (Amazon Prime Days)
 
 Multipack price dropped from $24.99 to $19.99 for Amazon Prime Days. Per-pad price now $0.40 (from $0.50), making Carity cheaper per pad than every organic competitor (Rael $0.50, Cora $0.46, Honest $0.60). Updated all wiki pages and the week-one sales plan. ARR projections recalculated.
