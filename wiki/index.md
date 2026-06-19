@@ -2,7 +2,7 @@
 
 Master catalog of all wiki pages. Updated on every ingest.
 
-**Stats:** 1 source | 6 concepts | 6 entities | 3 synthesis | 1 overview
+**Stats:** 1 source | 6 concepts | 8 entities | 4 synthesis | 1 overview
 
 ---
 
@@ -35,7 +35,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[entities/apple]] — Design obsession, full-stack control, ecosystem moat; brand lessons for Carity
 - [[entities/azzaro-wear]] — Summer streetwear brand targeting teen boys; second business
 - [[entities/blackrock]] — Risk management, Aladdin technology moat, daily learning discipline
-- [[entities/carity]] — **PRIMARY BUSINESS** — 50-pad organic multipack, $24.99, carity.life
+- [[entities/carity]] — **PRIMARY BUSINESS** — 50-pad organic multipack, $19.99, carity.life
 - [[entities/nvidia]] — CUDA ecosystem moat, self-disruption, betting on AI before AI existed
 - [[entities/obsidian]] — Local markdown app for browsing this wiki
 - [[entities/vannevar-bush-memex]] — 1945 vision of personal associative knowledge store
@@ -46,6 +46,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 
 *(newest first)*
 
+- [[synthesis/carity-week-one-sales-sprint]] — June 9–16 sprint: 5 cold sales via institutional outbound; first activation of Moat 3
 - [[synthesis/carity-competitive-analysis]] — Full competitor breakdown: Rael, Honest, Cora, L., Always — and why Carity wins
 - [[synthesis/carity-growth-strategy]] — Master strategy: 7 laws of greatness applied to Carity with real product specifics
 - [[synthesis/what-makes-great-companies]] — Apple, Amazon, Nvidia, BlackRock: 7 universal laws of permanent greatness
