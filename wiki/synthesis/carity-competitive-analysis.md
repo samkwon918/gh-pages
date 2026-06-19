@@ -51,13 +51,13 @@ A detailed breakdown of where Carity sits in the organic pad market, what every 
 **Always Pure / Infinity (conventional premium)**
 - Price: ~$0.22–0.30/pad
 - Non-organic. Chemical exposure risk.
-- *Carity advantage: Health/organic angle. At $0.50/pad vs. $0.22, Carity must make the organic argument clear and compelling.*
+- *Carity advantage: Health/organic angle. At $0.40/pad vs. $0.22, Carity is closing the gap — and the organic argument is now easier to make.*
 
 ---
 
 ## The Pricing Reality Check
 
-Carity at $0.50/pad is priced at the *premium* end of the organic market on a per-pad basis. This is the right position for organic. But the *value story* is what makes Carity accessible:
+Carity at $0.40/pad is now priced *below* most organic competitors on a per-pad basis (Rael $0.50, Honest $0.60, Cora $0.46, Organyc $0.73). The Prime Days pricing makes the value story even stronger:
 
 - **You get 50 pads** — vs 10–14 from competitors
 - **You get all three sizes** — you don't need to buy 3 separate packs
@@ -111,8 +111,8 @@ No competitor can steal this position as long as Carity holds it consistently.
 - ~65 million women of menstruating age in the US
 - 42% have experienced period poverty = ~27 million underserved
 - Even 0.5% conversion = 135,000 customers
-- At $24.99/order, average 4 orders/year = **$13.5M ARR** from 0.5% penetration
-- At 2% = $54M ARR
+- At $19.99/order, average 4 orders/year = **$10.8M ARR** from 0.5% penetration
+- At 2% = $43.2M ARR
 - Subscription model multiplies this significantly
 
 This is not a small market with a charitable mission bolted on. This is a massive, underserved market that Carity is uniquely positioned to lead.

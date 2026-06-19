@@ -27,7 +27,7 @@ Note: cold-emailing consumers from purchased lists is off the table (deliverabil
 | Replies (mission-aligned, hyper-relevant offer) | ~10% | 15 |
 | Conversations → purchase | ~⅓ | **5 sales** ✓ |
 
-West's cold-email benchmarks put generic B2B reply rates at 5-10%. We're writing to people whose literal job is finding affordable period products, with a $24.99 ask — top of that range is realistic. 150 contacts = 30/day for 5 days at ~2 min personalization each (~1 hr/day of sending).
+West's cold-email benchmarks put generic B2B reply rates at 5-10%. We're writing to people whose literal job is finding affordable period products, with a $19.99 ask — top of that range is realistic. 150 contacts = 30/day for 5 days at ~2 min personalization each (~1 hr/day of sending).
 
 ### Seasonal Reality Check
 
@@ -50,7 +50,7 @@ Texas first (Houston, Dallas, San Antonio, Austin): the "Texas organic cotton" l
 
 Make yes trivial. Three rungs:
 
-1. **Pilot Box — $24.99.** One 50-pad multipack (28 regular / 12 large / 10 overnight) for their supply closet. This is the cold CTA. One pilot box = one sale.
+1. **Pilot Box — $19.99.** One 50-pad multipack (28 regular / 12 large / 10 overnight) for their supply closet. This is the cold CTA. One pilot box = one sale.
 2. **Starter Bundle — 5 multipacks (250 pads) at a founder discount.** Offer in conversation, not in email #1. *(Founder sets the price — suggest ~$99-110, roughly 15-20% off; create a hidden Shopify product or discount code `PARTNER15`.)*
 3. **Standing order** — pitch the existing 3/6-month subscription plans only after a pilot lands. Not a cold ask.
 
@@ -72,7 +72,7 @@ All under 125 words, one CTA, personalization slot in line one. Send from the fo
 >
 > I saw {specific: "your wishlist page lists pads," / "you serve ~X women a month in {city}"}.
 >
-> I run Carity, a Texas company making 100% USDA-certified organic cotton pads — and our whole point is price: 50 pads in three sizes (regular, large, overnight) for $24.99. That's organic at roughly the cost of conventional.
+> I run Carity, a Texas company making 100% USDA-certified organic cotton pads — and our whole point is price: 50 pads in three sizes (regular, large, overnight) for $19.99. That's organic at roughly the cost of conventional.
 >
 > Most organic brands price out the people you serve. We built Carity for them.
 >
@@ -87,7 +87,7 @@ All under 125 words, one CTA, personalization slot in line one. Send from the fo
 >
 > One stat that drives us: 42% of US women have experienced period poverty, and it's worse for the women shelters serve. The "organic tax" means the safest products never reach them.
 >
-> One Carity multipack covers a full cycle — all three sizes, one box, $24.99. No sorting donations of mismatched singles.
+> One Carity multipack covers a full cycle — all three sizes, one box, $19.99. No sorting donations of mismatched singles.
 >
 > If supplies aren't your desk, who should I ask for?
 >
@@ -97,7 +97,7 @@ All under 125 words, one CTA, personalization slot in line one. Send from the fo
 
 > Hi {First name} — last note from me.
 >
-> If period supplies are covered, genuinely glad to hear it. If they're ever not, Carity will be here: organic, Texas-made, $0.50 a pad, all three sizes in one box.
+> If period supplies are covered, genuinely glad to hear it. If they're ever not, Carity will be here: organic, Texas-made, $0.40 a pad, all three sizes in one box.
 >
 > Either way — thank you for what {Org} does.
 >
@@ -109,7 +109,7 @@ All under 125 words, one CTA, personalization slot in line one. Send from the fo
 >
 > 1 in 3 teens lack access to period products, and summer is when school supplies disappear. {Specific: "With {program} running through August..."}
 >
-> I run Carity — Texas-made, USDA-certified organic cotton pads, 50 per box across three sizes, $24.99. Built so price is never the reason a girl goes without.
+> I run Carity — Texas-made, USDA-certified organic cotton pads, 50 per box across three sizes, $19.99. Built so price is never the reason a girl goes without.
 >
 > Could a pilot box help your {program/ministry} this summer? I can ship this week.
 >
@@ -117,13 +117,13 @@ All under 125 words, one CTA, personalization slot in line one. Send from the fo
 
 ### Phone Script (Texas locals — 10 calls, Days 3-4)
 
-> "Hi, this is {name} — I run Carity, we make organic cotton pads here in Texas. Quick question: who handles donated or purchased hygiene supplies for y'all? ... The short version: 50 organic pads, three sizes, one box, $24.99 — about half what organic usually costs. Could I send you one box to try?"
+> "Hi, this is {name} — I run Carity, we make organic cotton pads here in Texas. Quick question: who handles donated or purchased hygiene supplies for y'all? ... The short version: 50 organic pads, three sizes, one box, $19.99 — about half what organic usually costs. Could I send you one box to try?"
 
 ### Founder Post (Track B — LinkedIn + Instagram, Day 2, repost Day 5)
 
 > 42% of American women have experienced period poverty. Every organic pad brand prices for the other 58%.
 >
-> So we built Carity: 50 USDA-certified organic cotton pads — regular, large, and overnight in one box — for $24.99. Grown and made in Texas. Paper-thin, because organic shouldn't mean bulky.
+> So we built Carity: 50 USDA-certified organic cotton pads — regular, large, and overnight in one box — for $19.99. Grown and made in Texas. Paper-thin, because organic shouldn't mean bulky.
 >
 > This week I'm sending pilot boxes to Texas shelters and summer programs. If you run one — or know someone who does — my DMs are open. carity.life
 
@@ -134,18 +134,18 @@ All under 125 words, one CTA, personalization slot in line one. Send from the fo
 | "We only take donations" | "Understood — most of our partners started with one purchased pilot box to test quality with the women they serve. If it's a fit, we'll talk a standing arrangement that respects your budget." |
 | "We get pads donated free" | "That's great. What we hear is donations skew one size and run out. One Carity box is all three sizes — it fills the gaps. Worth one box to see?" |
 | "No budget until fall" | "Take the pilot box now, decide in the fall. And if I can ask — who handles your fall supply planning?" *(Seed for August.)* |
-| "Why not just Always? It's cheaper" | "Per pad, yes. But the women you serve have the least healthcare access when synthetic irritation becomes a real problem. Organic matters more, not less, here — and at $0.50/pad we're the only organic that's even in the conversation." |
+| "Why not just Always? It's cheaper" | "Per pad, yes. But the women you serve have the least healthcare access when synthetic irritation becomes a real problem. Organic matters more, not less, here — and at $0.40/pad we're the only organic that's even in the conversation." |
 
 ---
 
 ## Site Punch List — Do Day 1 (Role 2)
 
-Traffic from outreach must not leak. Verified from outside: carity.life is live ("Care For All"), $24.99, subscriptions including the Diamond Plan, and a contact page that mentions donation inquiries. Direct inspection was blocked, so verify each item on-site:
+Traffic from outreach must not leak. Verified from outside: carity.life is live ("Care For All"), $19.99, subscriptions including the Diamond Plan, and a contact page that mentions donation inquiries. Direct inspection was blocked, so verify each item on-site:
 
 1. **The bot wall (403) is blocking AI crawlers.** carity.life returns 403 Forbidden to non-browser agents. Google has it indexed, but ChatGPT/Perplexity-class crawlers are almost certainly blocked → zero AI-search visibility (Role 1 flag). In Shopify: review the bot-protection/firewall settings and allow legitimate crawlers. Not urgent for this week's 5 sales; very urgent for the quarter.
-2. **Hero must say the sentence:** "50 organic pads. 3 sizes. One box — $24.99." If the current hero says anything vaguer, replace it. This is the flywheel sentence from the research.
+2. **Hero must say the sentence:** "50 organic pads. 3 sizes. One box — $19.99." If the current hero says anything vaguer, replace it. This is the flywheel sentence from the research.
 3. **Add a "Partners & Donations" path.** The contact page already fields donation inquiries — promote it: simple page or labeled contact option for "Shelters, nonprofits & bulk orders." Every cold email points here eventually.
-4. **Comparison table on the product page:** Carity 50/$24.99/3 sizes vs Rael 14/$7 vs Honest 10/$5.95 vs Cora 28/$12.89 — single size each. The table *is* the pitch.
+4. **Comparison table on the product page:** Carity 50/$19.99/3 sizes vs Rael 14/$7 vs Honest 10/$5.95 vs Cora 28/$12.89 — single size each. The table *is* the pitch.
 5. **Trust row near the buy button:** USDA Organic · Texas-grown cotton · paper-thin.
 6. **Create discount code `PILOT`** (free shipping or 10%) — used only in replies, so code redemptions = cold-sale attribution.
 

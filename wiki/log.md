@@ -6,6 +6,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-19] schema | Price update: $24.99 → $19.99 (Amazon Prime Days)
+
+Multipack price dropped from $24.99 to $19.99 for Amazon Prime Days. Per-pad price now $0.40 (from $0.50), making Carity cheaper per pad than every organic competitor (Rael $0.50, Cora $0.46, Honest $0.60). Updated all wiki pages and the week-one sales plan. ARR projections recalculated.
+
+Pages updated: [[entities/carity]], [[synthesis/carity-competitive-analysis]], [[synthesis/carity-growth-strategy]], [[synthesis/carity-week-one-sales-sprint]], [[index]]
+
+---
+
 ## [2026-06-09] query | Week-One Plan: 5 Cold Sales for Carity (via West)
 
 Built a 7-day plan (June 9–16) to land 5 cold sales using the West marketing agent. Strategic call: institutional cold outbound (shelters, food banks, period-supply nonprofits, summer programs) is the only cold channel fast enough — 150 contacts → ~10% reply → 5 pilot-box sales. Researched carity.life live: confirmed "Care For All" tagline, $24.99, 1/3/6-month subscriptions + Diamond Plan, and discovered the site 403-blocks non-browser agents (AI-search visibility risk, flagged). Full operational playbook with copy, scripts, and day-by-day schedule filed at `.agents/west/plans/2026-06-09-week-one-5-sales.md`.

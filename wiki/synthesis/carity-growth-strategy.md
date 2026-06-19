@@ -19,7 +19,7 @@ The master strategy document for building Carity into a dominant, category-defin
 
 Carity is not trying to be a good small business. It's trying to build a moat, spin a flywheel, and compound its way to market leadership. Every decision should be evaluated against that ambition — not against what's comfortable, familiar, or safe.
 
-**The product:** 50-pad multipack (28 regular, 12 large, 10 overnight) — 100% Texas organic cotton, USDA approved, paper-thin — $24.99.
+**The product:** 50-pad multipack (28 regular, 12 large, 10 overnight) — 100% Texas organic cotton, USDA approved, paper-thin — $19.99.
 
 **The mission:** Organic period care for every woman, not just women who can afford Rael.
 

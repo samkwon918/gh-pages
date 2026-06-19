@@ -19,7 +19,7 @@ Cold-emailing consumers from lists was ruled out: deliverability damage and bran
 
 ## The Funnel
 
-150 institutional contacts → ~10% reply (mission-aligned, hyper-relevant) → ~⅓ of conversations convert → **5 pilot-box sales**. The cold CTA is deliberately trivial: one $24.99 multipack for their supply closet, with a 5-pack bundle and standing-order subscription held back for conversations.
+150 institutional contacts → ~10% reply (mission-aligned, hyper-relevant) → ~⅓ of conversations convert → **5 pilot-box sales**. The cold CTA is deliberately trivial: one $19.99 multipack for their supply closet, with a 5-pack bundle and standing-order subscription held back for conversations.
 
 ## Seasonal Correction
 
@@ -27,7 +27,7 @@ Mid-June means the school-nurse channel (from [[entities/carity]] secondary targ
 
 ## New Intelligence Gathered
 
-- **carity.life confirmed live** (Shopify): tagline "Care For All," $24.99 price point, 1/3/6-month subscriptions plus a 12-month "Diamond Plan," contact page already fielding donation inquiries.
+- **carity.life confirmed live** (Shopify): tagline "Care For All," $19.99 price point, 1/3/6-month subscriptions plus a 12-month "Diamond Plan," contact page already fielding donation inquiries.
 - **The site returns 403 to non-browser agents.** Google has it indexed, but AI-search crawlers (ChatGPT, Perplexity class) are almost certainly blocked — meaning zero AI-search citations while that firewall stays as-is. Flagged as a fix; not blocking this week's goal.
 
 ## Where the Full Playbook Lives

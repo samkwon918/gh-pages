@@ -15,7 +15,7 @@ The most important business in this wiki — an organic cotton menstrual pad bra
 
 ## The Product
 
-**The Carity Multipack — 50 pads for $24.99**
+**The Carity Multipack — 50 pads for $19.99**
 - 28 regular pads
 - 12 large pads
 - 10 overnight pads
@@ -24,7 +24,7 @@ The most important business in this wiki — an organic cotton menstrual pad bra
 
 **What makes it different from every competitor:**
 1. **All three sizes in one pack.** No competitor does this. Rael, Honest, Cora, L. — all sell single-size packs. Carity's customer buys one box and is covered for a full cycle.
-2. **Organic at a price that works.** $0.50/pad, competitive with Rael's premium single packs — but with 50 pads of mixed sizing.
+2. **Organic at a price that works.** $0.40/pad, undercutting Rael's premium single packs — with 50 pads of mixed sizing.
 3. **Texas-grown organic cotton.** Local sourcing story + USDA certification = credibility.
 4. **Paper-thin.** A genuine product differentiator that contradicts the assumption that organic pads must be thick.
 
@@ -59,7 +59,7 @@ Carity exists at the intersection of two urgent needs: organic quality (health) 
 
 | Brand | Size | Price | Per pad | Organic | Multi-size? |
 |---|---|---|---|---|---|
-| **Carity** | **50 pads** | **$24.99** | **$0.50** | **Yes (Texas)** | **Yes — reg/large/overnight** |
+| **Carity** | **50 pads** | **$19.99** | **$0.40** | **Yes (Texas)** | **Yes — reg/large/overnight** |
 | Rael | 14 pads | ~$7.00 | $0.50 | Yes (Texas) | No |
 | Honest | 10 pads | $5.95 | $0.60 | Yes | No |
 | Cora | 28 pads | $12.89 | $0.46 | Yes | No |
@@ -101,9 +101,9 @@ Even Stronger Retention and Referral
 
 There are approximately **65 million women of menstruating age in the US.**
 - 42% have experienced period poverty = ~27 million potential core customers
-- At $24.99/month subscription × 12 = ~$300/year per customer
-- 1% market penetration of the underserved segment = 270,000 customers = **$81M ARR**
-- 5% = $405M ARR
+- At $19.99/month subscription × 12 = ~$240/year per customer
+- 1% market penetration of the underserved segment = 270,000 customers = **$65M ARR**
+- 5% = $324M ARR
 
 This is not a small business. This is a category. The question is not whether the market is big enough — it's whether Carity claims it first.
 

@@ -35,7 +35,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[entities/apple]] — Design obsession, full-stack control, ecosystem moat; brand lessons for Carity
 - [[entities/azzaro-wear]] — Summer streetwear brand targeting teen boys; second business
 - [[entities/blackrock]] — Risk management, Aladdin technology moat, daily learning discipline
-- [[entities/carity]] — **PRIMARY BUSINESS** — 50-pad organic multipack, $24.99, carity.life
+- [[entities/carity]] — **PRIMARY BUSINESS** — 50-pad organic multipack, $19.99, carity.life
 - [[entities/nvidia]] — CUDA ecosystem moat, self-disruption, betting on AI before AI existed
 - [[entities/obsidian]] — Local markdown app for browsing this wiki
 - [[entities/vannevar-bush-memex]] — 1945 vision of personal associative knowledge store
